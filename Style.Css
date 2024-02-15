@@ -1,0 +1,17 @@
+body
+{
+    background-color: lightblue;
+}
+
+img
+{
+    width: 45%;
+    height: 45%;
+}
+
+button
+{
+    width: 125px;
+    height: 100px;
+    background-color:lightcoral
+}
